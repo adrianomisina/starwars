@@ -1,0 +1,13 @@
+.App {
+  background-image: url('./assets/1_o_darth_vader_de_star_wars-29162903.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .App {
+    height: 170vh;
+  }
+}
